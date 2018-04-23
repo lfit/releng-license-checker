@@ -16,6 +16,24 @@
       "revId": "9aea6afbe7a380be2378baad668d034700330139",
       "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "b038d832_3694266c",
+        "filename": "lhc.go",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 8
+      },
+      "writtenOn": "2018-04-23T19:52:37Z",
+      "side": 1,
+      "message": "Yes, golang a tabbed language. Good news is we can pass things to \"gofmt\" and it will automatically format the files for us. In go the code formatting is not something a human should manage.",
+      "parentUuid": "c09de9f3_a606b83b",
+      "revId": "9aea6afbe7a380be2378baad668d034700330139",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09",
+      "unresolved": false
     }
   ]
 }
