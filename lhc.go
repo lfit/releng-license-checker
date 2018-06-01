@@ -38,7 +38,7 @@ import (
 )
 
 var LICENSE_HEADER_LINES_MAX = 50
-var VERSION = "0.1.0"
+var VERSION = "0.2.0"
 
 type License struct {
 	Name string
